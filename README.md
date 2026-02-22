@@ -1,3 +1,4 @@
+![florin pic](https://github.com/user-attachments/assets/d678bff9-4387-45aa-9eb4-28ec1057ca6e)
 # Chrome DevTools frontend
 
 <!-- [START badges] -->
